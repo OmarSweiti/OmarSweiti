@@ -99,16 +99,16 @@ verification page.
 
 #### Specializations & Professional Certificates
 
-| Credential | Issuer | Completed |
-|---|---|---|
-| IBM Full Stack Software Developer Professional Certificate | IBM | Oct 2025 |
-| IBM Full-Stack JavaScript Developer Professional Certificate | IBM | Oct 2025 |
-| JavaScript Programming with React, Node & MongoDB Specialization | IBM | Oct 2025 |
-| Cloud Application Development Foundations Specialization | IBM | Sep 2025 |
-| Java Programming Fundamentals Specialization | IBM · SkillUp | Feb 2026 |
-| Apply API Testing & Automation with Postman Specialization | EDUCBA | Mar 2026 |
-| Generative AI for Software Developers Specialization | IBM | Oct 2025 |
-| Generative AI for Data Analysts Specialization | IBM | Oct 2025 |
+| Credential | Issuer | Completed | Verify |
+|---|---|---|---|
+| IBM Full Stack Software Developer Professional Certificate | IBM | Oct 2025 | [Verify](https://www.coursera.org/account/accomplishments/professional-cert/8NS4V4OOWBE9) |
+| IBM Full-Stack JavaScript Developer Professional Certificate | IBM | Oct 2025 | [Verify](https://www.coursera.org/account/accomplishments/professional-cert/4S4L3MTXNGS5) |
+| JavaScript Programming with React, Node & MongoDB Specialization | IBM | Oct 2025 | [Verify](https://www.coursera.org/account/accomplishments/specialization/ZPEOBOL12D87) |
+| Cloud Application Development Foundations Specialization | IBM | Sep 2025 | [Verify](https://www.coursera.org/account/accomplishments/specialization/FCLKLGM1TWIG) |
+| Java Programming Fundamentals Specialization | IBM · SkillUp | Feb 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/PFWAO3DOWZID) |
+| Apply API Testing & Automation with Postman Specialization | EDUCBA | Mar 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/FBUNK93T6NE1) |
+| Generative AI for Software Developers Specialization | IBM | Oct 2025 | [Verify](https://www.coursera.org/account/accomplishments/specialization/KDO93I9JP4F5) |
+| Generative AI for Data Analysts Specialization | IBM | Oct 2025 | [Verify](https://www.coursera.org/account/accomplishments/specialization/JZXE85SYHKAS) |
 
 Each specialization bundles several of the individual courses below.
 
