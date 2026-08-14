@@ -6,6 +6,7 @@
 
 Building enterprise conversational AI for banking at [DataKite](https://www.linkedin.com/showcase/datakite-services) · Amman, Jordan
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B7285?style=flat-square&logo=googlechrome&logoColor=white)](https://delicate-taiyaki-2c5e11.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-sweiti-673709304/)
 [![Credly](https://img.shields.io/badge/Credly-35%20Verified%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/omar-alsweiti/badges)
 [![Email](https://img.shields.io/badge/Email-omarsweiti.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omarsweiti.work@gmail.com)
@@ -86,8 +87,8 @@ Databases · Computer Networks · Embedded Systems · Software Engineering
 
 ## Certifications
 
-**35 verified credentials** on [Credly](https://www.credly.com/users/omar-alsweiti/badges) — every
-badge below links to its verification page.
+**35 verified badges** on [Credly](https://www.credly.com/users/omar-alsweiti/badges) and **39 course
+certificates** on Coursera. Every credential below links to its own verification page.
 
 <div align="center">
 
@@ -113,6 +114,29 @@ badge below links to its verification page.
 | [JavaScript Programming with React, Node & MongoDB Specialization](https://www.credly.com/badges/4042e313-b0ac-4582-8b1e-f9c22203c063) | IBM · Coursera | Feb 2026 |
 | [Generative AI for Software Developers Specialization](https://www.credly.com/badges/bf796ae9-ea7c-4852-bc33-1a3e7f49c082) | IBM · Coursera | Feb 2026 |
 | [Generative AI for Data Analysts Specialization](https://www.credly.com/badges/db9802e7-72c4-4f16-99ea-1af760033633) | IBM · Coursera | Oct 2025 |
+
+### Performance & Load Testing
+
+The formal grounding behind the load-engineering work at Q-Pros and DataKite.
+
+| Credential | Issuer | Verify |
+|---|---|---|
+| Master JMeter on Live Apps for Performance Testing | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/HQEJIQ9OEBDF) |
+| Advanced Gatling for Stress Testing Web Applications | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/D79U8IXYH287) |
+| Gatling Fundamentals for Stress Testing APIs — Scala | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/AOGLPD4VYUPP) |
+| Apply API Testing Fundamentals Using Postman | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/DJ6SDIMO0L9C) |
+| Postman Tutorial: Getting Started with API Testing | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/O7J2JUOQ4NW3) |
+
+### Mobile Development
+
+Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
+
+| Credential | Issuer | Verify |
+|---|---|---|
+| Flutter and Dart: Developing iOS, Android, and Mobile Apps | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/9AI18I4B6K94) |
+| Introduction to Android Mobile Application Development | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/JKUTK9DWLMPQ) |
+| Get Started with Android App Development | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/UYURG0EWLY10) |
+| Introduction to Mobile App Development | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/025FDKRVDV2J) |
 
 ### Full-Stack & Software Engineering
 
@@ -141,6 +165,24 @@ badge below links to its verification page.
 | [Git and GitHub Essentials](https://www.credly.com/badges/fa884a06-8acb-4262-8889-5fefa05d050d) | IBM · Coursera | Sep 2025 |
 | [Software Engineering Essentials](https://www.credly.com/badges/0964fa32-27d0-46e1-ab1e-5b69b702d828) | IBM · Coursera | Sep 2024 |
 | [Software Developer Career Guide and Interview Preparation](https://www.credly.com/badges/328aef6c-cfc5-4f6a-bc33-d76957d2489f) | IBM · Coursera | Oct 2025 |
+
+</details>
+
+<details>
+<summary><b>Additional Coursera coursework</b> — 6 certificates</summary>
+
+<br>
+
+Courses completed on Coursera that don't have a corresponding Credly badge.
+
+| Credential | Issuer | Verify |
+|---|---|---|
+| Spring Framework for Java Development | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/RM45P7LBMX4X) |
+| Java Development with Databases | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/UP7X6IZJS0IV) |
+| Java App Development Project: Fundamentals, OOP & File I/O | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/48LMX95GK5SO) |
+| Developing AI Applications with Python and Flask | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/5TRT1AV0MOGN) |
+| Version Control | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/0G4SDU9EA466) |
+| Everyday Excel, Part 1 | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/U82HZ6GFTZYS) |
 
 </details>
 
@@ -191,6 +233,8 @@ badge below links to its verification page.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -217,13 +261,16 @@ badge below links to its verification page.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Performance & Quality**
 
-![Load Testing](https://img.shields.io/badge/Load%20%26%20Stress%20Testing-D6336C?style=flat-square)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Gatling](https://img.shields.io/badge/Gatling-FF9E2A?style=flat-square&logo=gatling&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![APM](https://img.shields.io/badge/APM%20%26%20Monitoring-6741D9?style=flat-square)
 ![Bottleneck Analysis](https://img.shields.io/badge/Bottleneck%20Analysis-0B7285?style=flat-square)
 
@@ -245,6 +292,9 @@ badge below links to its verification page.
 
 **[expressbookreview](https://github.com/OmarSweiti/expressbookreview)** — RESTful book-review API on Node.js and Express, with JWT session authentication and per-user review ownership enforced in middleware.
 `Node.js` `Express` `JWT`
+
+More work — including a **Car Dealership Management System** and a **cross-platform supply-chain
+mobile app** — on my [portfolio](https://delicate-taiyaki-2c5e11.netlify.app/).
 
 ---
 
@@ -273,6 +323,7 @@ badge below links to its verification page.
 Happy to talk about full-stack architecture, native mobile, or making slow systems fast.
 
 [![Email](https://img.shields.io/badge/omarsweiti.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsweiti.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://delicate-taiyaki-2c5e11.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-sweiti-673709304/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/omar-alsweiti/badges)
 
