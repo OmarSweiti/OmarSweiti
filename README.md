@@ -87,8 +87,150 @@ Databases · Computer Networks · Embedded Systems · Software Engineering
 
 ## Certifications
 
-**35 verified badges** on [Credly](https://www.credly.com/users/omar-alsweiti/badges) and **39 course
-certificates** on Coursera. Every credential below links to its own verification page.
+I keep two independent credential records. **Coursera** holds the course and specialization
+certificates; **Credly** holds the verified digital badges. Each entry links to its own
+verification page.
+
+---
+
+### Coursera
+
+**8 specialization & professional certificates** &nbsp;·&nbsp; **47 course certificates**
+
+#### Specializations & Professional Certificates
+
+| Credential | Issuer | Completed |
+|---|---|---|
+| IBM Full Stack Software Developer Professional Certificate | IBM | Oct 2025 |
+| IBM Full-Stack JavaScript Developer Professional Certificate | IBM | Oct 2025 |
+| JavaScript Programming with React, Node & MongoDB Specialization | IBM | Oct 2025 |
+| Cloud Application Development Foundations Specialization | IBM | Sep 2025 |
+| Java Programming Fundamentals Specialization | IBM · SkillUp | Feb 2026 |
+| Apply API Testing & Automation with Postman Specialization | EDUCBA | Mar 2026 |
+| Generative AI for Software Developers Specialization | IBM | Oct 2025 |
+| Generative AI for Data Analysts Specialization | IBM | Oct 2025 |
+
+Each specialization bundles several of the individual courses below.
+
+#### Courses
+
+<details>
+<summary><b>Performance & API Testing</b> — 9 courses</summary>
+
+
+Backing the load-engineering work at Q-Pros and DataKite.
+
+
+| Course | Verify |
+|---|---|
+| Master JMeter on Live Apps for Performance Testing | [Verify](https://www.coursera.org/account/accomplishments/verify/HQEJIQ9OEBDF) |
+| Advanced Gatling for Stress Testing Web Applications | [Verify](https://www.coursera.org/account/accomplishments/verify/D79U8IXYH287) |
+| Gatling Fundamentals for Stress Testing APIs - Scala | [Verify](https://www.coursera.org/account/accomplishments/verify/AOGLPD4VYUPP) |
+| Master Advanced API Testing with Postman & Automation | — |
+| Apply Advanced API Testing with Postman | — |
+| Apply API Testing Fundamentals Using Postman | [Verify](https://www.coursera.org/account/accomplishments/verify/DJ6SDIMO0L9C) |
+| Build & Test REST APIs with POSTMAN and Spring Boot | — |
+| Apply Postman APIs for Customer Data Management | — |
+| Postman Tutorial: Getting Started with API Testing | [Verify](https://www.coursera.org/account/accomplishments/verify/O7J2JUOQ4NW3) |
+
+</details>
+
+<details>
+<summary><b>Mobile Development</b> — 4 courses</summary>
+
+
+Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
+
+
+| Course | Verify |
+|---|---|
+| Flutter and Dart: Developing iOS, Android, and Mobile Apps | [Verify](https://www.coursera.org/account/accomplishments/verify/9AI18I4B6K94) |
+| Introduction to Android Mobile Application Development | [Verify](https://www.coursera.org/account/accomplishments/verify/JKUTK9DWLMPQ) |
+| Get Started with Android App Development | [Verify](https://www.coursera.org/account/accomplishments/verify/UYURG0EWLY10) |
+| Introduction to Mobile App Development | [Verify](https://www.coursera.org/account/accomplishments/verify/025FDKRVDV2J) |
+
+</details>
+
+<details>
+<summary><b>Full-Stack & Backend</b> — 9 courses</summary>
+
+
+| Course | Verify |
+|---|---|
+| Full Stack Application Development Capstone Project | [Verify](https://www.coursera.org/account/accomplishments/verify/HI7BO2G8X8HX) |
+| Full Stack Software Developer Assessment | [Verify](https://www.coursera.org/account/accomplishments/verify/BRUAEG3OZ0CW) |
+| JavaScript Full Stack Capstone Project | [Verify](https://www.coursera.org/account/accomplishments/verify/FQP0K42UZ5B3) |
+| Node.js & MongoDB: Developing Back-end Database Applications | [Verify](https://www.coursera.org/account/accomplishments/verify/K89SPGKS9MI4) |
+| Django Application Development with SQL and Databases | [Verify](https://www.coursera.org/account/accomplishments/verify/OMMQY0DQD73P) |
+| Application Development using Microservices and Serverless | [Verify](https://www.coursera.org/account/accomplishments/verify/EA3IF5QNTG53) |
+| Introduction to Web Development with HTML, CSS, JavaScript | [Verify](https://www.coursera.org/account/accomplishments/verify/LO3BS5VCEDBE) |
+| Introduction to HTML, CSS, & JavaScript | [Verify](https://www.coursera.org/account/accomplishments/verify/G25P61M5VN4T) |
+| JavaScript Programming Essentials | [Verify](https://www.coursera.org/account/accomplishments/verify/2ZQHDATO5B39) |
+
+</details>
+
+<details>
+<summary><b>Java & Spring</b> — 5 courses</summary>
+
+
+| Course | Verify |
+|---|---|
+| Spring Framework for Java Development | [Verify](https://www.coursera.org/account/accomplishments/verify/RM45P7LBMX4X) |
+| Java Development with Databases | [Verify](https://www.coursera.org/account/accomplishments/verify/UP7X6IZJS0IV) |
+| Java App Development Project: Fundamentals, OOP & File I/O | [Verify](https://www.coursera.org/account/accomplishments/verify/48LMX95GK5SO) |
+| Object Oriented Programming in Java | [Verify](https://www.coursera.org/account/accomplishments/verify/6TGQC2R5TW0D) |
+| Java Programming for Beginners | [Verify](https://www.coursera.org/account/accomplishments/verify/B3JFN5XLB1GM) |
+
+</details>
+
+<details>
+<summary><b>Cloud & Containers</b> — 2 courses</summary>
+
+
+| Course | Verify |
+|---|---|
+| Introduction to Containers w/ Docker, Kubernetes & OpenShift | [Verify](https://www.coursera.org/account/accomplishments/verify/15QHQGH7NUM0) |
+| Introduction to Cloud Computing | [Verify](https://www.coursera.org/account/accomplishments/verify/DMCJJUZQBJGU) |
+
+</details>
+
+<details>
+<summary><b>AI, Data & Analytics</b> — 10 courses</summary>
+
+
+| Course | Verify |
+|---|---|
+| Developing AI Applications with Python and Flask | [Verify](https://www.coursera.org/account/accomplishments/verify/5TRT1AV0MOGN) |
+| Generative AI: Elevate your Software Development Career | [Verify](https://www.coursera.org/account/accomplishments/verify/NEEBZ72OLXWH) |
+| Generative AI: Enhance your Data Analytics Career | [Verify](https://www.coursera.org/account/accomplishments/verify/IBFA0RUQO5IG) |
+| Generative AI: Prompt Engineering Basics | [Verify](https://www.coursera.org/account/accomplishments/verify/DNBRSZH2FOED) |
+| Generative AI: Introduction and Applications | [Verify](https://www.coursera.org/account/accomplishments/verify/AWUVUFMBTXJR) |
+| Introduction to Data Engineering | [Verify](https://www.coursera.org/account/accomplishments/verify/DIPO3SWYBL4O) |
+| Introduction to Data Analytics | [Verify](https://www.coursera.org/account/accomplishments/verify/XT865YX2OCJQ) |
+| Data Visualization and Dashboards with Excel and Cognos | [Verify](https://www.coursera.org/account/accomplishments/verify/PVXT1DEF7XLQ) |
+| Excel Basics for Data Analysis | [Verify](https://www.coursera.org/account/accomplishments/verify/4OOIPYKMO18N) |
+| Everyday Excel, Part 1 | [Verify](https://www.coursera.org/account/accomplishments/verify/U82HZ6GFTZYS) |
+
+</details>
+
+<details>
+<summary><b>Engineering Foundations</b> — 4 courses</summary>
+
+
+| Course | Verify |
+|---|---|
+| Getting Started with Git and GitHub | [Verify](https://www.coursera.org/account/accomplishments/verify/REA7FNZ60IAW) |
+| Version Control | [Verify](https://www.coursera.org/account/accomplishments/verify/0G4SDU9EA466) |
+| Introduction to Software Engineering | [Verify](https://www.coursera.org/account/accomplishments/verify/NYBUKQI8E6W3) |
+| Software Developer Career Guide and Interview Preparation | [Verify](https://www.coursera.org/account/accomplishments/verify/2JJ9TC9YAM9B) |
+
+</details>
+
+---
+
+### Credly
+
+**35 verified digital badges** — [view the full badge wall](https://www.credly.com/users/omar-alsweiti/badges)
 
 <div align="center">
 
@@ -106,41 +248,18 @@ certificates** on Coursera. Every credential below links to its own verification
 
 </div>
 
-### Professional Certificates & Specializations
+#### Professional Certificates & Specializations
 
-| Credential | Issuer | Earned |
+| Badge | Issuer | Earned |
 |---|---|---|
 | [IBM Full Stack Software Developer Professional Certificate (V5)](https://www.credly.com/badges/355edc49-fbea-4078-978f-74724a909dc3) | IBM · Coursera | Apr 2026 |
 | [JavaScript Programming with React, Node & MongoDB Specialization](https://www.credly.com/badges/4042e313-b0ac-4582-8b1e-f9c22203c063) | IBM · Coursera | Feb 2026 |
 | [Generative AI for Software Developers Specialization](https://www.credly.com/badges/bf796ae9-ea7c-4852-bc33-1a3e7f49c082) | IBM · Coursera | Feb 2026 |
 | [Generative AI for Data Analysts Specialization](https://www.credly.com/badges/db9802e7-72c4-4f16-99ea-1af760033633) | IBM · Coursera | Oct 2025 |
 
-### Performance & Load Testing
+#### Full-Stack & Software Engineering
 
-The formal grounding behind the load-engineering work at Q-Pros and DataKite.
-
-| Credential | Issuer | Verify |
-|---|---|---|
-| Master JMeter on Live Apps for Performance Testing | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/HQEJIQ9OEBDF) |
-| Advanced Gatling for Stress Testing Web Applications | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/D79U8IXYH287) |
-| Gatling Fundamentals for Stress Testing APIs — Scala | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/AOGLPD4VYUPP) |
-| Apply API Testing Fundamentals Using Postman | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/DJ6SDIMO0L9C) |
-| Postman Tutorial: Getting Started with API Testing | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/O7J2JUOQ4NW3) |
-
-### Mobile Development
-
-Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
-
-| Credential | Issuer | Verify |
-|---|---|---|
-| Flutter and Dart: Developing iOS, Android, and Mobile Apps | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/9AI18I4B6K94) |
-| Introduction to Android Mobile Application Development | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/JKUTK9DWLMPQ) |
-| Get Started with Android App Development | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/UYURG0EWLY10) |
-| Introduction to Mobile App Development | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/025FDKRVDV2J) |
-
-### Full-Stack & Software Engineering
-
-| Credential | Issuer | Earned |
+| Badge | Issuer | Earned |
 |---|---|---|
 | [Full Stack Application Development Capstone Project V2](https://www.credly.com/badges/3e7e1bc5-0a11-48bb-8623-cdd5cd4285bf) | IBM · Coursera | Oct 2025 |
 | [Full Stack Software Developer Assessment V2](https://www.credly.com/badges/f3e86725-7261-4766-9d7b-28607885a1e8) | IBM · Coursera | Oct 2025 |
@@ -151,11 +270,28 @@ Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
 | [Developing Applications with SQL, Databases, and Django](https://www.credly.com/badges/1ddd0d3b-b5f8-467d-b86b-91fa78c8c69a) | IBM · Coursera | Oct 2025 |
 
 <details>
-<summary><b>Web Fundamentals, Java & Career</b> — 8 credentials</summary>
+<summary><b>Cloud, Containers & DevOps</b> — 7 badges</summary>
 
 <br>
 
-| Credential | Issuer | Earned |
+| Badge | Issuer | Earned |
+|---|---|---|
+| [AWS Educate: Introduction to Cloud 101](https://www.credly.com/badges/d87d5558-5b99-49cb-b760-252de8e7275e) | Amazon Web Services | Apr 2026 |
+| [AWS Educate: Getting Started with Compute](https://www.credly.com/badges/bcf3379f-a22b-485c-a85e-3e7a92221504) | Amazon Web Services | Apr 2026 |
+| [AWS Educate: Getting Started with Storage](https://www.credly.com/badges/92ddb97a-e31e-4234-94cd-2b5416a8db29) | Amazon Web Services | Apr 2026 |
+| [Application Development using Microservices and Serverless](https://www.credly.com/badges/278ae103-4733-4a63-b866-64b62e8e43c6) | IBM · Coursera | Oct 2025 |
+| [Containers & Kubernetes Essentials](https://www.credly.com/badges/e89f9b9f-d04d-4a12-ac1c-804d64166297) | IBM · Coursera | Sep 2025 |
+| [Cloud Native, DevOps, Agile & NoSQL Essentials](https://www.credly.com/badges/64fbdf10-795c-4b5e-aa13-b8bf7c1e1c74) | IBM · Coursera | Sep 2025 |
+| [Introduction to Cloud Computing](https://www.credly.com/badges/879f4d17-6f8a-4433-84fc-c7361b68992b) | IBM · Coursera | Sep 2025 |
+
+</details>
+
+<details>
+<summary><b>Java, Web Fundamentals & Career</b> — 8 badges</summary>
+
+<br>
+
+| Badge | Issuer | Earned |
 |---|---|---|
 | [Object Oriented Programming in Java](https://www.credly.com/badges/7ef47535-bb92-4cec-98e4-306ca09d5f65) | IBM · Coursera | Feb 2026 |
 | [Java Programming for Beginners](https://www.credly.com/badges/d3434bc4-3a38-4f7c-b764-90937db36541) | IBM · Coursera | Jan 2026 |
@@ -169,46 +305,11 @@ Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
 </details>
 
 <details>
-<summary><b>Additional Coursera coursework</b> — 6 certificates</summary>
+<summary><b>AI, Data & Analytics</b> — 9 badges</summary>
 
 <br>
 
-Courses completed on Coursera that don't have a corresponding Credly badge.
-
-| Credential | Issuer | Verify |
-|---|---|---|
-| Spring Framework for Java Development | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/RM45P7LBMX4X) |
-| Java Development with Databases | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/UP7X6IZJS0IV) |
-| Java App Development Project: Fundamentals, OOP & File I/O | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/48LMX95GK5SO) |
-| Developing AI Applications with Python and Flask | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/5TRT1AV0MOGN) |
-| Version Control | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/0G4SDU9EA466) |
-| Everyday Excel, Part 1 | Coursera | [Verify](https://www.coursera.org/account/accomplishments/verify/U82HZ6GFTZYS) |
-
-</details>
-
-<details>
-<summary><b>Cloud, Containers & DevOps</b> — 7 credentials</summary>
-
-<br>
-
-| Credential | Issuer | Earned |
-|---|---|---|
-| [AWS Educate: Introduction to Cloud 101](https://www.credly.com/badges/d87d5558-5b99-49cb-b760-252de8e7275e) | Amazon Web Services | Apr 2026 |
-| [AWS Educate: Getting Started with Compute](https://www.credly.com/badges/bcf3379f-a22b-485c-a85e-3e7a92221504) | Amazon Web Services | Apr 2026 |
-| [AWS Educate: Getting Started with Storage](https://www.credly.com/badges/92ddb97a-e31e-4234-94cd-2b5416a8db29) | Amazon Web Services | Apr 2026 |
-| [Application Development using Microservices and Serverless](https://www.credly.com/badges/278ae103-4733-4a63-b866-64b62e8e43c6) | IBM · Coursera | Oct 2025 |
-| [Containers & Kubernetes Essentials](https://www.credly.com/badges/e89f9b9f-d04d-4a12-ac1c-804d64166297) | IBM · Coursera | Sep 2025 |
-| [Cloud Native, DevOps, Agile & NoSQL Essentials](https://www.credly.com/badges/64fbdf10-795c-4b5e-aa13-b8bf7c1e1c74) | IBM · Coursera | Sep 2025 |
-| [Introduction to Cloud Computing](https://www.credly.com/badges/879f4d17-6f8a-4433-84fc-c7361b68992b) | IBM · Coursera | Sep 2025 |
-
-</details>
-
-<details>
-<summary><b>AI, Data & Analytics</b> — 9 credentials</summary>
-
-<br>
-
-| Credential | Issuer | Earned |
+| Badge | Issuer | Earned |
 |---|---|---|
 | [Data Engineering Essentials](https://www.credly.com/badges/d0290e5e-df4f-43f5-8d29-c0ed5658872b) | IBM · Coursera | Mar 2026 |
 | [Generative AI: Prompt Engineering](https://www.credly.com/badges/095cc704-211b-45d3-ab89-92c984ea27de) | IBM · Coursera | Oct 2025 |
@@ -221,6 +322,7 @@ Courses completed on Coursera that don't have a corresponding Credly badge.
 | [Excel Essentials for Data Analytics](https://www.credly.com/badges/9117c03b-408f-41f5-9bfe-dc94c10721cd) | IBM · Coursera | Oct 2024 |
 
 </details>
+
 
 ---
 
