@@ -1,15 +1,18 @@
 <div align="center">
 
-# Omar Alsweiti
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:6741d9&height=200&section=header&text=Omar%20Alsweiti&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Computer%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Omar Alsweiti, Full Stack Developer and Computer Engineer">
 
-**Full Stack Developer** · Computer Engineer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=3BC9DB&center=true&vCenter=true&width=620&lines=Mobile+SDK+%C2%B7+React+Native+%E2%86%92+Swift+%26+Kotlin;Encrypted+transport+%C2%B7+server-driven+UI;Load+%26+performance+engineering;Making+slow+systems+fast">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0B7285&center=true&vCenter=true&width=620&lines=Mobile+SDK+%C2%B7+React+Native+%E2%86%92+Swift+%26+Kotlin;Encrypted+transport+%C2%B7+server-driven+UI;Load+%26+performance+engineering;Making+slow+systems+fast" alt="Mobile SDK, React Native to Swift and Kotlin. Encrypted transport and server-driven UI. Load and performance engineering. Making slow systems fast.">
+</picture>
 
 Building enterprise conversational AI for banking at [DataKite](https://www.linkedin.com/showcase/datakite-services) · Amman, Jordan
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B7285?style=flat-square&logo=googlechrome&logoColor=white)](https://delicate-taiyaki-2c5e11.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-sweiti-673709304/)
-[![Credly](https://img.shields.io/badge/Credly-35%20Verified%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/omar-alsweiti/badges)
-[![Email](https://img.shields.io/badge/Email-omarsweiti.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omarsweiti.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://delicate-taiyaki-2c5e11.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-sweiti-673709304/)
+[![Credly](https://img.shields.io/badge/Credly-35%20Verified%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/omar-alsweiti/badges)
+[![Email](https://img.shields.io/badge/Email-omarsweiti.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsweiti.work@gmail.com)
 
 </div>
 
@@ -29,6 +32,23 @@ means I don't just ship features — I know how they behave under load, in conta
 production.
 
 **Stack:** React Native · Swift · Kotlin · React · Next.js · Node.js/NestJS · Java/Spring Boot · PostgreSQL · Docker
+
+---
+
+## GitHub Activity
+
+<!-- Regenerated daily by .github/workflows/3d-contribution-graph.yml and published to the output branch. -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarSweiti/OmarSweiti/output/3d-contrib-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarSweiti/OmarSweiti/output/3d-contrib-light.svg">
+  <img src="https://raw.githubusercontent.com/OmarSweiti/OmarSweiti/output/3d-contrib-dark.svg" width="100%" alt="3D calendar of my GitHub contributions over the past year, with a breakdown of commits, pull requests, issues, reviews, and repositories">
+</picture>
+
+<sub>Regenerated daily from my GitHub contribution history.</sub>
+
+</div>
 
 ---
 
@@ -328,59 +348,63 @@ Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
 
 ## Technical Skills
 
+<div align="center">
+
 **Frontend & Mobile**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
 
 **Data & Persistence**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **DevOps & Infrastructure**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Performance & Quality**
 
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
-![Gatling](https://img.shields.io/badge/Gatling-FF9E2A?style=flat-square&logo=gatling&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![APM](https://img.shields.io/badge/APM%20%26%20Monitoring-6741D9?style=flat-square)
-![Bottleneck Analysis](https://img.shields.io/badge/Bottleneck%20Analysis-0B7285?style=flat-square)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Gatling](https://img.shields.io/badge/Gatling-FF9E2A?style=for-the-badge&logo=gatling&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![APM](https://img.shields.io/badge/APM%20%26%20Monitoring-6741D9?style=for-the-badge)
+![Bottleneck Analysis](https://img.shields.io/badge/Bottleneck%20Analysis-0B7285?style=for-the-badge)
 
 **Version Control**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</div>
 
 ---
 
@@ -430,3 +454,5 @@ Happy to talk about full-stack architecture, native mobile, or making slow syste
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/omar-alsweiti/badges)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6741d9,100:0b7285&height=120&section=footer" width="100%" alt="">
