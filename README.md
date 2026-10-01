@@ -234,17 +234,17 @@ Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/355edc49-fbea-4078-978f-74724a909dc3"><img src="https://images.credly.com/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" width="105" alt="IBM Full Stack Software Developer Professional Certificate (V5)"></a>
+<a href="https://www.credly.com/badges/355edc49-fbea-4078-978f-74724a909dc3"><img src="assets/credly/ibm-full-stack-software-developer-v5.png" width="105" alt="IBM Full Stack Software Developer Professional Certificate (V5)"></a>
 &nbsp;
-<a href="https://www.credly.com/badges/4042e313-b0ac-4582-8b1e-f9c22203c063"><img src="https://images.credly.com/images/0ac196c8-e538-4a4b-8c3c-d242f3e565ae/Coursera_20JavaScript_20Prog_20w_20React_20Node_20and_20MongoDB_20Spec.png" width="105" alt="JavaScript Programming with React, Node & MongoDB Specialization"></a>
+<a href="https://www.credly.com/badges/4042e313-b0ac-4582-8b1e-f9c22203c063"><img src="assets/credly/javascript-react-node-mongodb.png" width="105" alt="JavaScript Programming with React, Node & MongoDB Specialization"></a>
 &nbsp;
-<a href="https://www.credly.com/badges/bf796ae9-ea7c-4852-bc33-1a3e7f49c082"><img src="https://images.credly.com/images/e41c77a7-4668-44e4-a196-008235304a3d/image.png" width="105" alt="Generative AI for Software Developers Specialization"></a>
+<a href="https://www.credly.com/badges/bf796ae9-ea7c-4852-bc33-1a3e7f49c082"><img src="assets/credly/generative-ai-for-software-developers.png" width="105" alt="Generative AI for Software Developers Specialization"></a>
 &nbsp;
-<a href="https://www.credly.com/badges/7e5129ed-0b0b-4882-9d65-2a9f5b1e7283"><img src="https://images.credly.com/images/e747147a-9300-4795-8b38-704a133bed88/Coursera_20Front_20end_20Development_20with_20React_20V2.png" width="105" alt="Front-end Development with React V2"></a>
+<a href="https://www.credly.com/badges/7e5129ed-0b0b-4882-9d65-2a9f5b1e7283"><img src="assets/credly/front-end-development-with-react-v2.png" width="105" alt="Front-end Development with React V2"></a>
 &nbsp;
-<a href="https://www.credly.com/badges/e89f9b9f-d04d-4a12-ac1c-804d64166297"><img src="https://images.credly.com/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png" width="105" alt="Containers & Kubernetes Essentials"></a>
+<a href="https://www.credly.com/badges/e89f9b9f-d04d-4a12-ac1c-804d64166297"><img src="assets/credly/containers-kubernetes-essentials.png" width="105" alt="Containers & Kubernetes Essentials"></a>
 &nbsp;
-<a href="https://www.credly.com/badges/64fbdf10-795c-4b5e-aa13-b8bf7c1e1c74"><img src="https://images.credly.com/images/0180c9c4-1723-4e5d-b38e-c439cd445130/image.png" width="105" alt="Cloud Native, DevOps, Agile & NoSQL Essentials"></a>
+<a href="https://www.credly.com/badges/64fbdf10-795c-4b5e-aa13-b8bf7c1e1c74"><img src="assets/credly/cloud-native-devops-agile-nosql-essentials.png" width="105" alt="Cloud Native, DevOps, Agile & NoSQL Essentials"></a>
 
 </div>
 
