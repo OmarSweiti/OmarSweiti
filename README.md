@@ -66,7 +66,7 @@ Full-stack engineer on **Rawi**, an enterprise conversational-AI platform built 
 
 <br>
 
-### Load and Performance Engineer — Quality Professionals (Q-Pros)
+### Load and Performance Engineer — [Quality Professionals (Q-Pros)](https://q-pros.com/)
 **Amman, Jordan** &nbsp;·&nbsp; *Mar 2026 – Jun 2026*
 
 Owned load and performance validation for enterprise systems — establishing whether they hold up
@@ -79,7 +79,7 @@ under peak traffic before customers find out they don't.
 
 <br>
 
-### Application Engineer — Synopsys *(via Omnix Technology)*
+### Application Engineer — [Synopsys](https://www.synopsys.com/) *(via [Omnix Technology](https://omnextech.com/))*
 **Amman, Jordan** &nbsp;·&nbsp; *Feb 2025 – Aug 2025*
 
 Supported advanced **EDA flows** across large-scale distributed compute environments — workloads
