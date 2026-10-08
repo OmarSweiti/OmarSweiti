@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0B7285&center=true&vCenter=true&width=620&lines=Mobile+SDK+%C2%B7+React+Native+%E2%86%92+Swift+%26+Kotlin;Encrypted+transport+%C2%B7+server-driven+UI;Load+%26+performance+engineering;Making+slow+systems+fast" alt="Mobile SDK, React Native to Swift and Kotlin. Encrypted transport and server-driven UI. Load and performance engineering. Making slow systems fast.">
 </picture>
 
-Building enterprise conversational AI for banking at [DataKite](https://www.linkedin.com/showcase/datakite-services) · Amman, Jordan
+Building enterprise conversational AI for banking at [DataKite](https://datakite.ai/) · Amman, Jordan
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://delicate-taiyaki-2c5e11.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-sweiti-673709304/)
@@ -54,7 +54,7 @@ production.
 
 ## Experience
 
-### Full Stack Developer — DataKite
+### Full Stack Developer — [DataKite](https://datakite.ai/)
 **Amman, Jordan** &nbsp;·&nbsp; *Jun 2026 – Present*
 
 Full-stack engineer on **Rawi**, an enterprise conversational-AI platform built for banking clients.
