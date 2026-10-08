@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:6741d9&height=200&section=header&text=Omar%20Alsweiti&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Computer%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Omar Alsweiti, Full Stack Developer and Computer Engineer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:6741d9&height=200&section=header&text=Omar%20Sweiti&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Computer%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Omar Sweiti, Full Stack Developer and Computer Engineer">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=3BC9DB&center=true&vCenter=true&width=620&lines=Mobile+SDK+%C2%B7+React+Native+%E2%86%92+Swift+%26+Kotlin;Encrypted+transport+%C2%B7+server-driven+UI;Load+%26+performance+engineering;Making+slow+systems+fast">
