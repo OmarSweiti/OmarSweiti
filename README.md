@@ -9,7 +9,7 @@
 
 Building enterprise conversational AI for banking at [DataKite](https://datakite.ai/) · Amman, Jordan
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://delicate-taiyaki-2c5e11.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omarsweiti.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-sweiti-673709304/)
 [![Credly](https://img.shields.io/badge/Credly-35%20Verified%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/omar-alsweiti/badges)
 [![Email](https://img.shields.io/badge/Email-omarsweiti.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsweiti.work@gmail.com)
@@ -419,8 +419,9 @@ Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
 **[expressbookreview](https://github.com/OmarSweiti/expressbookreview)** — RESTful book-review API on Node.js and Express, with JWT session authentication and per-user review ownership enforced in middleware.
 `Node.js` `Express` `JWT`
 
-More work — including a **Car Dealership Management System** and a **cross-platform supply-chain
-mobile app** — on my [portfolio](https://delicate-taiyaki-2c5e11.netlify.app/).
+More work — including a [Car Dealership Management System](https://omarsweiti.netlify.app/projects/car-dealership)
+and a [cross-platform supply-chain mobile app](https://omarsweiti.netlify.app/projects/supply-chain-management)
+— on my [portfolio](https://omarsweiti.netlify.app/), where every project has a case study.
 
 ---
 
@@ -449,7 +450,7 @@ mobile app** — on my [portfolio](https://delicate-taiyaki-2c5e11.netlify.app/)
 Happy to talk about full-stack architecture, native mobile, or making slow systems fast.
 
 [![Email](https://img.shields.io/badge/omarsweiti.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsweiti.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://delicate-taiyaki-2c5e11.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omarsweiti.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-sweiti-673709304/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/omar-alsweiti/badges)
 
