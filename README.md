@@ -115,7 +115,7 @@ verification page.
 
 ### Coursera
 
-**8 specialization & professional certificates** &nbsp;·&nbsp; **47 course certificates**
+**8 specialization & professional certificates** &nbsp;·&nbsp; **43 course certificates**
 
 #### Specializations & Professional Certificates
 
