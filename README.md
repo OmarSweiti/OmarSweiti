@@ -48,6 +48,9 @@ production.
 
 <sub>Regenerated daily from my GitHub contribution history.</sub>
 
+<!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=OmarSweiti&label=Profile%20views&color=0b7285&style=for-the-badge&abbreviated=true" alt="Profile views counter">
+
 </div>
 
 ---
