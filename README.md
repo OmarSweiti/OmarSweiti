@@ -69,6 +69,20 @@ software bring-up and verification can start long before first silicon.
 
 <br>
 
+### Full Stack, Mobile & QA Engineer — Freelance
+**Remote** &nbsp;·&nbsp; *Jan 2025 – Present*
+
+Independent software and quality work for clients alongside my full-time roles: building web, mobile
+and backend systems, and testing them before they ship.
+
+- Build **web applications** end to end: React and Next.js front ends on Node.js/NestJS, Spring Boot or Laravel.
+- Design **backend services and REST APIs** on PostgreSQL or MySQL, with authentication, integrations and Docker.
+- Develop **mobile apps** in React Native and Flutter, and natively in Swift and Kotlin.
+- Test by hand and with automation: test plans, exploratory and regression runs, **Playwright** and **Postman** suites.
+- Load- and stress-test with **JMeter, Gatling, k6, LoadRunner and NeoLoad**, then trace bottlenecks to their fixes.
+
+<br>
+
 ### Full Stack Developer — [DataKite](https://datakite.ai/)
 **Amman, Jordan** &nbsp;·&nbsp; *Jun 2026 – Nov 2026*
 
