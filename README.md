@@ -21,18 +21,20 @@ Freelance full stack, mobile & QA engineer
 
 ## About
 
-I'm a Computer Engineering graduate from the University of Jordan, currently a Full Stack Developer
-at **DataKite**, where I work on **Rawi** — an enterprise conversational-AI platform for banking.
-Most of my time goes to the customer-facing mobile SDK: encrypted transport, server-driven UI, and
-Arabic/English voice interaction, now being rewritten from React Native into native Swift and Kotlin.
+I'm a Computer Engineering graduate from the University of Jordan, now an **application engineer in
+hardware emulation at Synopsys**, through **Bridgz**. Emulation runs a chip design on dedicated hardware
+long before the silicon exists, so software bring-up and verification can start early. It's a return to
+Synopsys, where I started out administering Linux and distributed compute for EDA workloads.
 
-What I bring beyond the application layer is a systems background. I administered Linux and
-distributed compute for EDA workloads at **Synopsys**, then spent time load- and stress-testing
-enterprise systems at **Q-Pros** to find where they break before customers do. That combination
-means I don't just ship features — I know how they behave under load, in containers, and in
-production.
+Alongside it, I've **freelanced since 2025 as a full stack, mobile and QA engineer**: React and Next.js
+front ends on Node.js, Java or PHP back ends, mobile apps in React Native, Swift and Kotlin, and testing
+that runs from manual and Playwright suites to load tests in JMeter, Gatling, k6, LoadRunner and NeoLoad.
+Before this role I shipped Rawi's mobile SDK at **DataKite** and load-tested enterprise systems at
+**Q-Pros**, so I know how software behaves under load as well as how to ship it.
 
-**Stack:** React Native · Swift · Kotlin · React · Next.js · Node.js/NestJS · Java/Spring Boot · PostgreSQL · Docker
+**Stack:** React · Next.js · React Native · Swift · Kotlin · Node.js/NestJS · Java/Spring Boot · Laravel · PostgreSQL · Docker
+
+**Testing:** Playwright · Postman · JMeter · Gatling · k6 · LoadRunner · NeoLoad
 
 ---
 
