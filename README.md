@@ -422,13 +422,32 @@ Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
 ![Bash](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Performance & Quality**
+**Hardware & EDA**
+
+![Hardware Emulation](https://img.shields.io/badge/Hardware%20Emulation-6741D9?style=for-the-badge)
+![EDA Flows](https://img.shields.io/badge/EDA%20Flows-0B7285?style=for-the-badge)
+![Distributed Computing](https://img.shields.io/badge/Distributed%20Computing-005571?style=for-the-badge)
+![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-6741D9?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0B7285?style=for-the-badge)
+
+**Performance Testing**
 
 ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Gatling](https://img.shields.io/badge/Gatling-FF9E2A?style=for-the-badge&logo=gatling&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![LoadRunner](https://img.shields.io/badge/LoadRunner-0073E7?style=for-the-badge&logo=opentext&logoColor=white)
+![NeoLoad](https://img.shields.io/badge/NeoLoad-12438C?style=for-the-badge&logo=tricentis&logoColor=white)
 ![APM](https://img.shields.io/badge/APM%20%26%20Monitoring-6741D9?style=for-the-badge)
 ![Bottleneck Analysis](https://img.shields.io/badge/Bottleneck%20Analysis-0B7285?style=for-the-badge)
+
+**QA & Test Automation**
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-0B7285?style=for-the-badge)
+![Test Automation](https://img.shields.io/badge/Test%20Automation-6741D9?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-005571?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-0B7285?style=for-the-badge)
 
 **Version Control**
 
