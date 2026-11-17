@@ -58,14 +58,14 @@ production.
 ## Experience
 
 ### Full Stack Developer — [DataKite](https://datakite.ai/)
-**Amman, Jordan** &nbsp;·&nbsp; *Jun 2026 – Present*
+**Amman, Jordan** &nbsp;·&nbsp; *Jun 2026 – Nov 2026*
 
 Full-stack engineer on **Rawi**, an enterprise conversational-AI platform built for banking clients.
 
-- Ship the **customer-facing mobile SDK** — React Native compiled to native iOS and Android binaries — with **encrypted transport**, **server-driven UI**, and **Arabic/English voice interaction**.
-- **Leading the SDK's rewrite into native Swift and Kotlin**, moving the client off React Native for performance and platform fidelity.
-- Contribute to the **React web console** and the **Java / Spring Boot** backend services behind the platform.
-- Run **load testing across platform services**, carrying performance-engineering practice into product work.
+- Shipped the **customer-facing mobile SDK** — React Native compiled to native iOS and Android binaries — with **encrypted transport**, **server-driven UI**, and **Arabic/English voice interaction**.
+- **Led the SDK's rewrite into native Swift and Kotlin**, moving the client off React Native for performance and platform fidelity.
+- Contributed to the **React web console** and the **Java / Spring Boot** backend services behind the platform.
+- Ran **load testing across platform services**, carrying performance-engineering practice into product work.
 
 <br>
 
