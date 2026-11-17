@@ -82,7 +82,7 @@ under peak traffic before customers find out they don't.
 
 <br>
 
-### Application Engineer — [Synopsys](https://www.synopsys.com/) *(via [Omnix Technology](https://omnextech.com/))*
+### Application Engineer — [Synopsys](https://www.synopsys.com/) *(via [Bridgz](https://www.bridgz.net/))*
 **Amman, Jordan** &nbsp;·&nbsp; *Feb 2025 – Aug 2025*
 
 Supported advanced **EDA flows** across large-scale distributed compute environments — workloads
