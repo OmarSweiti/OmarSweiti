@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:6741d9&height=200&section=header&text=Omar%20Sweiti&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Computer%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Omar Sweiti, Full Stack Developer and Computer Engineer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:6741d9&height=200&section=header&text=Omar%20Sweiti&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Application%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20QA%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Omar Sweiti, Application Engineer, Full Stack Developer and QA Engineer">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=3BC9DB&center=true&vCenter=true&width=620&lines=Mobile+SDK+%C2%B7+React+Native+%E2%86%92+Swift+%26+Kotlin;Encrypted+transport+%C2%B7+server-driven+UI;Load+%26+performance+engineering;Making+slow+systems+fast">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0B7285&center=true&vCenter=true&width=620&lines=Mobile+SDK+%C2%B7+React+Native+%E2%86%92+Swift+%26+Kotlin;Encrypted+transport+%C2%B7+server-driven+UI;Load+%26+performance+engineering;Making+slow+systems+fast" alt="Mobile SDK, React Native to Swift and Kotlin. Encrypted transport and server-driven UI. Load and performance engineering. Making slow systems fast.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=3BC9DB&center=true&vCenter=true&width=620&lines=From+silicon+to+software;Full+stack+%C2%B7+web%2C+mobile+%26+backend;QA+%C2%B7+manual%2C+automated+%26+load+testing;Making+slow+systems+fast">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0B7285&center=true&vCenter=true&width=620&lines=From+silicon+to+software;Full+stack+%C2%B7+web%2C+mobile+%26+backend;QA+%C2%B7+manual%2C+automated+%26+load+testing;Making+slow+systems+fast" alt="From silicon to software. Full stack: web, mobile and backend. QA: manual, automated and load testing. Making slow systems fast.">
 </picture>
 
-Building enterprise conversational AI for banking at [DataKite](https://datakite.ai/) · Amman, Jordan
+Emulation Application Engineer at [Synopsys](https://www.synopsys.com/) via [Bridgz](https://www.bridgz.net/) · Amman, Jordan<br>
+Freelance full stack, mobile & QA engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omarsweiti.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-sweiti-673709304/)
@@ -20,18 +21,20 @@ Building enterprise conversational AI for banking at [DataKite](https://datakite
 
 ## About
 
-I'm a Computer Engineering graduate from the University of Jordan, currently a Full Stack Developer
-at **DataKite**, where I work on **Rawi** — an enterprise conversational-AI platform for banking.
-Most of my time goes to the customer-facing mobile SDK: encrypted transport, server-driven UI, and
-Arabic/English voice interaction, now being rewritten from React Native into native Swift and Kotlin.
+I'm a Computer Engineering graduate from the University of Jordan, now an **application engineer in
+hardware emulation at Synopsys**, through **Bridgz**. Emulation runs a chip design on dedicated hardware
+long before the silicon exists, so software bring-up and verification can start early. It's a return to
+Synopsys, where I started out administering Linux and distributed compute for EDA workloads.
 
-What I bring beyond the application layer is a systems background. I administered Linux and
-distributed compute for EDA workloads at **Synopsys**, then spent time load- and stress-testing
-enterprise systems at **Q-Pros** to find where they break before customers do. That combination
-means I don't just ship features — I know how they behave under load, in containers, and in
-production.
+Alongside it, I've **freelanced since 2025 as a full stack, mobile and QA engineer**: React and Next.js
+front ends on Node.js, Java or PHP back ends, mobile apps in React Native, Swift and Kotlin, and testing
+that runs from manual and Playwright suites to load tests in JMeter, Gatling, k6, LoadRunner and NeoLoad.
+Before this role I shipped Rawi's mobile SDK at **DataKite** and load-tested enterprise systems at
+**Q-Pros**, so I know how software behaves under load as well as how to ship it.
 
-**Stack:** React Native · Swift · Kotlin · React · Next.js · Node.js/NestJS · Java/Spring Boot · PostgreSQL · Docker
+**Stack:** React · Next.js · React Native · Swift · Kotlin · Node.js/NestJS · Java/Spring Boot · Laravel · PostgreSQL · Docker
+
+**Testing:** Playwright · Postman · JMeter · Gatling · k6 · LoadRunner · NeoLoad
 
 ---
 
@@ -57,15 +60,41 @@ production.
 
 ## Experience
 
+### Emulation Application Engineer — [Synopsys](https://www.synopsys.com/) *(via [Bridgz](https://www.bridgz.net/))*
+**Amman, Jordan** &nbsp;·&nbsp; *Nov 2026 – Present*
+
+Back at Synopsys, now in **hardware emulation**: running chip designs on emulation systems so that
+software bring-up and verification can start long before first silicon.
+
+- Support chip-design and verification teams' **emulation flows**, from compiling a design to debugging its runs.
+- Automate emulation runs and the **Linux** environments behind them with **shell scripting**.
+- Troubleshoot failing runs with engineering teams and keep emulation capacity reliable.
+
+<br>
+
+### Full Stack, Mobile & QA Engineer — Freelance
+**Remote** &nbsp;·&nbsp; *Jan 2025 – Present*
+
+Independent software and quality work for clients alongside my full-time roles: building web, mobile
+and backend systems, and testing them before they ship.
+
+- Build **web applications** end to end: React and Next.js front ends on Node.js/NestJS, Spring Boot or Laravel.
+- Design **backend services and REST APIs** on PostgreSQL or MySQL, with authentication, integrations and Docker.
+- Develop **mobile apps** in React Native and Flutter, and natively in Swift and Kotlin.
+- Test by hand and with automation: test plans, exploratory and regression runs, **Playwright** and **Postman** suites.
+- Load- and stress-test with **JMeter, Gatling, k6, LoadRunner and NeoLoad**, then trace bottlenecks to their fixes.
+
+<br>
+
 ### Full Stack Developer — [DataKite](https://datakite.ai/)
-**Amman, Jordan** &nbsp;·&nbsp; *Jun 2026 – Present*
+**Amman, Jordan** &nbsp;·&nbsp; *Jun 2026 – Nov 2026*
 
 Full-stack engineer on **Rawi**, an enterprise conversational-AI platform built for banking clients.
 
-- Ship the **customer-facing mobile SDK** — React Native compiled to native iOS and Android binaries — with **encrypted transport**, **server-driven UI**, and **Arabic/English voice interaction**.
-- **Leading the SDK's rewrite into native Swift and Kotlin**, moving the client off React Native for performance and platform fidelity.
-- Contribute to the **React web console** and the **Java / Spring Boot** backend services behind the platform.
-- Run **load testing across platform services**, carrying performance-engineering practice into product work.
+- Shipped the **customer-facing mobile SDK** — React Native compiled to native iOS and Android binaries — with **encrypted transport**, **server-driven UI**, and **Arabic/English voice interaction**.
+- **Led the SDK's rewrite into native Swift and Kotlin**, moving the client off React Native for performance and platform fidelity.
+- Contributed to the **React web console** and the **Java / Spring Boot** backend services behind the platform.
+- Ran **load testing across platform services**, carrying performance-engineering practice into product work.
 
 <br>
 
@@ -82,7 +111,7 @@ under peak traffic before customers find out they don't.
 
 <br>
 
-### Application Engineer — [Synopsys](https://www.synopsys.com/) *(via [Omnix Technology](https://omnextech.com/))*
+### Application Engineer — [Synopsys](https://www.synopsys.com/) *(via [Bridgz](https://www.bridgz.net/))*
 **Amman, Jordan** &nbsp;·&nbsp; *Feb 2025 – Aug 2025*
 
 Supported advanced **EDA flows** across large-scale distributed compute environments — workloads
@@ -375,11 +404,14 @@ Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
 
 **Data & Persistence**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -393,13 +425,32 @@ Behind the Rawi mobile SDK and its native Swift/Kotlin rewrite.
 ![Bash](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Performance & Quality**
+**Hardware & EDA**
+
+![Hardware Emulation](https://img.shields.io/badge/Hardware%20Emulation-6741D9?style=for-the-badge)
+![EDA Flows](https://img.shields.io/badge/EDA%20Flows-0B7285?style=for-the-badge)
+![Distributed Computing](https://img.shields.io/badge/Distributed%20Computing-005571?style=for-the-badge)
+![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-6741D9?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0B7285?style=for-the-badge)
+
+**Performance Testing**
 
 ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Gatling](https://img.shields.io/badge/Gatling-FF9E2A?style=for-the-badge&logo=gatling&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![LoadRunner](https://img.shields.io/badge/LoadRunner-0073E7?style=for-the-badge&logo=opentext&logoColor=white)
+![NeoLoad](https://img.shields.io/badge/NeoLoad-12438C?style=for-the-badge&logo=tricentis&logoColor=white)
 ![APM](https://img.shields.io/badge/APM%20%26%20Monitoring-6741D9?style=for-the-badge)
 ![Bottleneck Analysis](https://img.shields.io/badge/Bottleneck%20Analysis-0B7285?style=for-the-badge)
+
+**QA & Test Automation**
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-0B7285?style=for-the-badge)
+![Test Automation](https://img.shields.io/badge/Test%20Automation-6741D9?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-005571?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-0B7285?style=for-the-badge)
 
 **Version Control**
 
@@ -450,7 +501,8 @@ and a [cross-platform supply-chain mobile app](https://omarsweiti.netlify.app/pr
 
 ### Let's talk
 
-Happy to talk about full-stack architecture, native mobile, or making slow systems fast.
+Open to freelance web, mobile, backend and QA projects, and happy to talk about hardware emulation,
+full-stack architecture, or making slow systems fast.
 
 [![Email](https://img.shields.io/badge/omarsweiti.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsweiti.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omarsweiti.netlify.app/)
