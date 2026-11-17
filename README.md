@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:6741d9&height=200&section=header&text=Omar%20Sweiti&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Computer%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Omar Sweiti, Full Stack Developer and Computer Engineer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:6741d9&height=200&section=header&text=Omar%20Sweiti&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Application%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20QA%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Omar Sweiti, Application Engineer, Full Stack Developer and QA Engineer">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=3BC9DB&center=true&vCenter=true&width=620&lines=Mobile+SDK+%C2%B7+React+Native+%E2%86%92+Swift+%26+Kotlin;Encrypted+transport+%C2%B7+server-driven+UI;Load+%26+performance+engineering;Making+slow+systems+fast">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0B7285&center=true&vCenter=true&width=620&lines=Mobile+SDK+%C2%B7+React+Native+%E2%86%92+Swift+%26+Kotlin;Encrypted+transport+%C2%B7+server-driven+UI;Load+%26+performance+engineering;Making+slow+systems+fast" alt="Mobile SDK, React Native to Swift and Kotlin. Encrypted transport and server-driven UI. Load and performance engineering. Making slow systems fast.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=3BC9DB&center=true&vCenter=true&width=620&lines=From+silicon+to+software;Full+stack+%C2%B7+web%2C+mobile+%26+backend;QA+%C2%B7+manual%2C+automated+%26+load+testing;Making+slow+systems+fast">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=0B7285&center=true&vCenter=true&width=620&lines=From+silicon+to+software;Full+stack+%C2%B7+web%2C+mobile+%26+backend;QA+%C2%B7+manual%2C+automated+%26+load+testing;Making+slow+systems+fast" alt="From silicon to software. Full stack: web, mobile and backend. QA: manual, automated and load testing. Making slow systems fast.">
 </picture>
 
-Building enterprise conversational AI for banking at [DataKite](https://datakite.ai/) · Amman, Jordan
+Emulation Application Engineer at [Synopsys](https://www.synopsys.com/) via [Bridgz](https://www.bridgz.net/) · Amman, Jordan<br>
+Freelance full stack, mobile & QA engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omarsweiti.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-sweiti-673709304/)
