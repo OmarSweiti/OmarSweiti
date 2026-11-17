@@ -498,7 +498,8 @@ and a [cross-platform supply-chain mobile app](https://omarsweiti.netlify.app/pr
 
 ### Let's talk
 
-Happy to talk about full-stack architecture, native mobile, or making slow systems fast.
+Open to freelance web, mobile, backend and QA projects, and happy to talk about hardware emulation,
+full-stack architecture, or making slow systems fast.
 
 [![Email](https://img.shields.io/badge/omarsweiti.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsweiti.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omarsweiti.netlify.app/)
