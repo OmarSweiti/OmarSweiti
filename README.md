@@ -57,6 +57,18 @@ production.
 
 ## Experience
 
+### Emulation Application Engineer — [Synopsys](https://www.synopsys.com/) *(via [Bridgz](https://www.bridgz.net/))*
+**Amman, Jordan** &nbsp;·&nbsp; *Nov 2026 – Present*
+
+Back at Synopsys, now in **hardware emulation**: running chip designs on emulation systems so that
+software bring-up and verification can start long before first silicon.
+
+- Support chip-design and verification teams' **emulation flows**, from compiling a design to debugging its runs.
+- Automate emulation runs and the **Linux** environments behind them with **shell scripting**.
+- Troubleshoot failing runs with engineering teams and keep emulation capacity reliable.
+
+<br>
+
 ### Full Stack Developer — [DataKite](https://datakite.ai/)
 **Amman, Jordan** &nbsp;·&nbsp; *Jun 2026 – Nov 2026*
 
